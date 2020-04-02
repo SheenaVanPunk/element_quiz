@@ -1,5 +1,7 @@
 Program: Element_Quiz
 
+***** I added certain parts of the program outside of these instructions to make the console output look more user friendly ******
+
 In this program the user enters the name of any 5 of the first 20 Atomic Elements and is given a grade and test report for items correct and incorrect.
 Sample input and output:
 
