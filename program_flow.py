@@ -10,7 +10,7 @@ for index in range(len(element_list)):
 file.close()
 
 #print the instructions for a user
-print("Greetings! It is time to check your knowledge about ATOMIC ELEMENTS.")
+print("Greetings! It is time to check your knowledge of ATOMIC ELEMENTS.")
 print("Enter any 5 of the first 20 atomic elements from Period Table and I will give you a grade.")
 
 user_input = input("Are you ready (y/n)?\n")
